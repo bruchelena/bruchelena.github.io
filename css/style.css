@@ -545,7 +545,7 @@ section::after {
 
 #about {
 	background: #FFF;
-	height: 1440px;
+	/*height: 1440px; */
 	margin: 0 auto;
 	color: #5E3921;
 	padding: 2.5em 0;
@@ -563,7 +563,7 @@ section::after {
 
 #wedding {
 	background: #FFF;
-	height: 1500px;
+	/*height: 1500px; */
 	margin: 0 auto;
 	color: #5E3921;
 	padding: 2.5em 0;
